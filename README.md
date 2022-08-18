@@ -6,12 +6,10 @@ I am now studying in Computer Science and Engineering department at American Int
 
 Skills: LARAVEL/ REACT / JS / HTML / CSS / Web development/ QA testing/ Digital Marketing /Ethical Hacking & Cyber Security 
 
-Facebook Page to follow: Facebook Page: 
-[Marketing with TBD] &
-(https://www.facebook.com/technoBDmarketing/?ref=pages_you_manage)
+Facebook Pages to follow: Facebook Page: 
+[Marketing with TBD](https://www.facebook.com/technoBDmarketing/?ref=pages_you_manage) & [University StudyHelp BD](https://www.facebook.com/successwitheducation/?ref=pages_you_manage)
 
-[University StudyHelp BD](https://www.facebook.com/successwitheducation/?ref=pages_you_manage)
-Here are some ideas to get you started:
+My Info:
 
 - 🔭 I’m currently working on Fiverr market place
 - 🌱 I’m currently learning Lravel, ReactJs, QA testing
