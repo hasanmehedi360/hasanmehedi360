@@ -12,14 +12,15 @@ Facebook Pages to follow: Facebook Page:
 My Info:
 
 - 🔭 I’m currently working on Fiverr market place
+- 🔭 Near to achieve ny Undergraduate Degree on BSc CSE program
 - 🌱 I’m currently learning Lravel, ReactJs, QA testing
 - 👯 I’m looking to collaborate on Social Media's platform
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with audience gathering
 - 💬 Ask me about any kinds of web development courses, BSc CSE courses, Cyber security related topics etc..
 - 📫 How to reach me: Twitter- [@hasanmehedi360](https://twitter.com/hasanmehedi360), LinkedIn- [@hasanmehedi360](https://www.linkedin.com/in/hasanmehedi360/),
  Telegram -https://t.me/nevergiveup365
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: None
+- ⚡ Fun fact: Can watch a cricket match for a long tine
 
 
 
