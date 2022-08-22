@@ -12,8 +12,8 @@ Facebook Pages to follow: Facebook Page:
 My Info:
 
 - 🔭 I’m currently working on Fiverr market place
-- 🔭 Near to achieve ny Undergraduate Degree on BSc CSE program
-- 🌱 I’m currently learning Lravel, ReactJs, QA testing
+- 🔭 Near to achieve my Undergraduate Degree on BSc CSE program
+- 🌱 I’m currently learning Laravel, ReactJs, QA testing
 - 👯 I’m looking to collaborate on Social Media's platform
 - 🤔 I’m looking for help with audience gathering
 - 💬 Ask me about any kinds of web development courses, BSc CSE courses, Cyber security related topics etc..
