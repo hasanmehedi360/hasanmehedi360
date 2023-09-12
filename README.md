@@ -1,26 +1,8 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQF1rb0maFoYVg/profile-displaybackgroundimage-shrink_350_1400/0/1641461833386?e=1662595200&v=beta&t=eAIqqRagsWmwNcNuz4xcX7WcMKsBvUaG37lycZmTwHI)
 
-Hi there👋,This is Mehedi Hasan Emon
 
-I am now studying in Computer Science and Engineering department at American Internation University- Bangladesh. I have completed many courses project, I love coding. I am also a professional Digital Marketer.
 
-Skills: LARAVEL/ REACT / JS / HTML / CSS / Web development/ QA testing/ Digital Marketing /Ethical Hacking & Cyber Security 
 
-Facebook Pages to follow: Facebook Page: 
-[Marketing with TBD](https://www.facebook.com/technoBDmarketing/?ref=pages_you_manage) & [University StudyHelp BD](https://www.facebook.com/successwitheducation/?ref=pages_you_manage)
-
-My Info:
-
-- 🔭 I’m currently working on Fiverr market place
-- 🔭 Near to achieve my Undergraduate Degree on BSc CSE program
-- 🌱 I’m currently learning Laravel, ReactJs, QA testing
-- 👯 I’m looking to collaborate on Social Media's platform
-- 🤔 I’m looking for help with audience gathering
-- 💬 Ask me about any kinds of web development courses, BSc CSE courses, Cyber security related topics etc..
-- 📫 How to reach me: Twitter- [@hasanmehedi360](https://twitter.com/hasanmehedi360), LinkedIn- [@hasanmehedi360](https://www.linkedin.com/in/hasanmehedi360/),
- Telegram -https://t.me/nevergiveup365
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Can watch a cricket match for a long time
 
 
 
